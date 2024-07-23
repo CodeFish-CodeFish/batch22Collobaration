@@ -3,8 +3,11 @@ public class GitClass {
 
         System.out.println("git");
 
+        System.out.println("Baaber");
+
         System.out.println("push test");
 
         System.out.println("newB");
+
     }
 }
